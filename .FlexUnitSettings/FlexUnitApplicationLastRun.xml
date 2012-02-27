@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="" >
+<testsuite  name="Default Test Suite" project="UndoManager">
+<testsuite name="test:TestManagedCollection" type="testsuiteclass"/>
+<testsuite name="test:TestManagedObject" type="testsuiteclass"/>
+<testsuite name="test:TestUndoManager" type="testsuiteclass"/>
+</testsuite>
+<portNumber value="8765" />
+</testrun>
