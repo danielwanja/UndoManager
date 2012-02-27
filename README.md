@@ -11,7 +11,7 @@ This library provides three main class, the ManagedCollections, the ManagedObjec
 Usage
 =====
 
-Copy the /lib/UndoManager.swc file to the libs folder of your project.
+Copy the /bin/UndoManager.swc file to the libs folder of your project.
 
 Let's look at a simple example where we add several managed objects to a managed collection
 
